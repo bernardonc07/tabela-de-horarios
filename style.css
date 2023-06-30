@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.table1{
+    width: 100%;
+    float: right;
+    border-spacing: 0px;
+    border: solid black 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+th{
+    background-color: rgb(188, 185, 185);
+    border-right: solid black 1px;
+    text-align: center;
+    
+}
+
+.horario{
+    background-color: white;
+    width: 10%;
+}
+
+td{
+    border: 1px solid black;
+    width: 6%;
+    text-align: center;
+ 
+    
+
+}
+
+
+.intervalo{
+    background-color: gray;
+    font-size: 20px;
+    
+    
+}
+
+.linguagens{
+    background-color: pink;
+}
+
+.CH{
+    background-color:lightsteelblue ;
+}
+
+.CN{
+    background-color: lightgreen;
+}
+
+.mat{
+    background-color: yellow;
+}
+
+.PP{
+    background-color: burlywood;
+}
+
+.PV{
+  background-color:  rgb(173, 209, 173)
+}
+
+.table2{
+    width: 50%;
+    border-spacing: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.text{
+    border: 0;
+    background-color: white;
+}
